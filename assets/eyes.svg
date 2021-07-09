@@ -1,0 +1,8 @@
+<svg width="281" height="109" viewBox="0 0 281 109" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="eyes">
+<path id="lefteye" d="M67 35C44.8508 33.6761 15.5 59 15.5 59C15.5 59 42.5597 81.1359 63.5 84C85.3234 86.9848 118.5 71.5 118.5 71.5C118.5 71.5 91.6071 36.4708 67 35Z" fill="white"/>
+<ellipse id="lefteyeball" cx="68" cy="58.5" rx="23" ry="23.5" fill="#624230"/>
+<path id="righteye" d="M224.5 35.0502C246.649 33.7262 276 59.0502 276 59.0502C276 59.0502 248.94 81.1861 228 84.0502C206.177 87.035 173 71.5502 173 71.5502C173 71.5502 199.893 36.521 224.5 35.0502Z" fill="white"/>
+<ellipse id="righteyeball" rx="23" ry="23.5" transform="matrix(-1 0 0 1 223.5 58.5502)" fill="#624230"/>
+</g>
+</svg>
